@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/CSS/style.css">
+    <title>Encriptar/Desencriptar</title>
+    
+</head>
+<body>
+    <div class="container">
+        <div>
+            <img class="logo" src="/image/logo.png" alt="Logo">
+            <h2>Encriptador de texto</h2>
+        </div>
+        <form action="">
+            <textarea class="text-area" id="texto" type="text" placeholder="Ingrese el texto aqui"></textarea>
+            <div class="alerta">
+                <img src="/image/alerta.png" alt="">
+                <p class="parrafo">Solo letras minúsculas y sin acento</p>
+            </div>
+            <div>
+                <button class="encriptar" id="buttonEncriptar" type="button"> Encriptar</button>
+                <button class="desencriptar" id="buttonDesencriptar" type="button"> Desencriptar</button>
+            </div>
+        </form>
+
+        <form action="">
+            <div class="rectangle">
+                <textarea class="text-area2" cols="7" rows="7" class="" name="area" id="area"></textarea>
+                <button class="copiar" id="buttonCopiar" type="button" value="Copiar">Copiar</button>
+            </div>
+        </form>        
+    </div>
+</body>
+<script src="/JS/index.js"></script>
+
+</html>
