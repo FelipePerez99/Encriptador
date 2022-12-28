@@ -100,7 +100,7 @@ h2{
     align-items: flex-start;
     padding: 24px;
     gap: 8px;
-    width: 328px;
+    width: 250px;
     height: 67px;
     background: #0A3871;
     border-radius: 24px;
@@ -108,7 +108,7 @@ h2{
     order: 0;
     flex-grow: 0;
     position:absolute;
-    left: 10%;
+    left: 18%;
     top: 80%;
 }
 
@@ -118,7 +118,7 @@ h2{
     align-items: flex-start;
     padding: 24px;
     gap: 8px;
-    width: 328px;
+    width: 250px;
     height: 67px;
     background: #D8DFE8;
     border: 1px solid #0A3871;
@@ -140,7 +140,7 @@ h2{
     position: absolute;
     width: 229px;
     height: 18px;
-    left: 140px;
+    left: 245px;
     top: 480px;
 }
 
@@ -238,4 +238,8 @@ h2{
         width: 250px;
         left: 40px;
     }
+}
+
+@media screen and (max-width:1024px) {
+    
 }
