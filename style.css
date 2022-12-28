@@ -109,7 +109,7 @@ h2{
     flex-grow: 0;
     position:absolute;
     left: 18%;
-    top: 80%;
+    top: 66%;
 }
 
 .desencriptar{
@@ -128,7 +128,7 @@ h2{
     flex-grow: 0;
     position:absolute;
     right: 40%;
-    top: 80%;
+    top: 66%;
 }
 
 .alerta {
@@ -141,7 +141,7 @@ h2{
     width: 229px;
     height: 18px;
     left: 245px;
-    top: 480px;
+    top: 390px;
 }
 
 .alerta img{
@@ -183,7 +183,7 @@ h2{
     flex-grow: 0;
     position:absolute;
     left: 6%;
-    top: 80%;
+    top: 65%;
 }
 
 
@@ -240,4 +240,3 @@ h2{
         left: 40px;
     }
 }
-
