@@ -204,8 +204,6 @@ h2{
         width: min-content;
         left: 38px;
         top: 120px;
-        background-color: lightblue;
-        border: 0;
     }
 
     .alerta{
@@ -236,8 +234,6 @@ h2{
         width: 265px;
         left: 38px ;
         height: 150px;
-        background-color: lightblue;
-        border: 0;
     }
 
     .copiar{
