@@ -212,6 +212,7 @@ h2{
         position: relative;
         top: 290px;
         width: 250px;
+        left: 40px;
     }
 
     .desencriptar{
@@ -240,6 +241,3 @@ h2{
     }
 }
 
-@media screen and (max-width:1024px) {
-    
-}
